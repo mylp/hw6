@@ -30,7 +30,6 @@
         Shortest path cost:  7
         Runtime: 0.0ms
 
-(c) Requires Python 3.10.4 or higher
-    Run the program with
+(c) Requires Python 3.10.4 or higher. Run the program with
     
         py hw6.py
