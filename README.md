@@ -32,4 +32,5 @@
 
 (c) Requires Python 3.10.4 or higher
     Run the program with
+    
         <code>py hw6.py<\code>
